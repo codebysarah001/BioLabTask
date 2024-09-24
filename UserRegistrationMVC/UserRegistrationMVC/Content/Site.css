@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.btn-primary {
+    background-color: #653780 !important;
+    border-color: #653780 !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    background-color: #4e2d6a !important;
+    border-color: #4e2d6a !important;
+}
+
+.terms-link {
+    color: #653780;
+    text-decoration: none;
+}
+
+.terms-link:hover {
+    text-decoration: underline;
+}
+
+.login-link {
+    color: #653780;
+    text-decoration: none; 
+}
+
+.login-link:hover {
+    text-decoration: underline;
+}
