@@ -53,6 +53,7 @@ namespace UserRegistrationMVC.Controllers
             return View();
         }
 
+        
         [HttpGet]
         public ActionResult GetUser(string email = null, string username = null)
         {

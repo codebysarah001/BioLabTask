@@ -1,27 +1,40 @@
 ﻿using System;
 using System.Net;
+using System.Net.Http;
 using System.Text;
-using System.Web.Mvc;
+using System.Web.Http.Controllers;
+using System.Web.Http.Filters;
 
 namespace UserRegistrationMVC.Filters
 {
-    public class Authentication : AuthorizeAttribute
+    public class Authentication : AuthorizationFilterAttribute
     {
-        public override void OnAuthorization(AuthorizationContext filterContext)
-        {
-            var authHeader = filterContext.HttpContext.Request.Headers["Authorization"];
-            if (authHeader != null && authHeader.StartsWith("Basic "))
-            {
-                var credentials = Encoding.UTF8.GetString(Convert.FromBase64String(authHeader.Substring("Basic ".Length).Trim())).Split(':');
-                var username = credentials[0];
-                var password = credentials[1];
+        private object webapi_security;
 
-                if (username == "admin" && password == "password")
-                {
-                    return;
-                }
+        public override void OnAuthorization(HttpActionContext filterContext)
+        {
+            var authHeader = filterContext.Request.Headers.Authorization;
+            if (authHeader == null)
+            {
+                filterContext.Response = filterContext.Request.CreateResponse(HttpStatusCode.Unauthorized);
             }
-            filterContext.Result = new HttpStatusCodeResult(HttpStatusCode.Unauthorized);
+
+            else
+            {
+                string auth_String = filterContext.Request.Headers.Authorization.Parameter;
+                string original_String = Encoding.UTF8.GetString(Convert.FromBase64String(auth_String));
+
+                string username = original_String.Split(':')[0];
+                string password = original_String.Split(':')[1];
+
+                if (!UserRegistrationMVC.Models.webapi_security.ValidateUsers(username, password))
+                {
+                    filterContext.Response = filterContext.Request.CreateResponse(HttpStatusCode.Unauthorized);
+                }
+
+            }
+            base.OnAuthorization(filterContext);
+
         }
     }
 }
