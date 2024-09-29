@@ -7,32 +7,28 @@
       "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\filters\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\models\\webapi_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\models\\webapi_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\models\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\models\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\views\\account\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\views\\account\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:UserRegistrationMVC\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\models\\strongpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\models\\strongpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\ApiAccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:UserRegistrationMVC\\Controllers\\ApiAccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\userregistrationmvc\\models\\webapi_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:userregistrationmvc\\models\\webapi_security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:UserRegistrationMVC\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44911341-2BA8-4702-83BF-24981A90272C}|UserRegistrationMVC\\UserRegistrationMVC.csproj|solutionrelative:UserRegistrationMVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,51 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\User.cs",
-              "RelativeDocumentMoniker": "UserRegistrationMVC\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\User.cs",
-              "RelativeToolTip": "UserRegistrationMVC\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:23:59.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "StrongPassword.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\StrongPassword.cs",
               "RelativeDocumentMoniker": "UserRegistrationMVC\\Models\\StrongPassword.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\StrongPassword.cs",
               "RelativeToolTip": "UserRegistrationMVC\\Models\\StrongPassword.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T07:23:51.054Z"
+              "WhenOpened": "2024-09-29T07:18:42.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserRegistrationMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\User.cs",
+              "RelativeToolTip": "UserRegistrationMVC\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:52:34.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "webapi_security.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\webapi_security.cs",
               "RelativeDocumentMoniker": "UserRegistrationMVC\\Models\\webapi_security.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\webapi_security.cs",
               "RelativeToolTip": "UserRegistrationMVC\\Models\\webapi_security.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T06:55:20.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\ApiService.cs",
-              "RelativeDocumentMoniker": "UserRegistrationMVC\\Models\\ApiService.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Models\\ApiService.cs",
-              "RelativeToolTip": "UserRegistrationMVC\\Models\\ApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T06:30:02.867Z"
+              "WhenOpened": "2024-09-29T06:52:21.892Z"
             },
             {
               "$type": "Document",
@@ -104,46 +88,46 @@
               "RelativeDocumentMoniker": "UserRegistrationMVC\\Filters\\Authentication.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Filters\\Authentication.cs",
               "RelativeToolTip": "UserRegistrationMVC\\Filters\\Authentication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T06:16:25.303Z",
+              "WhenOpened": "2024-09-29T06:35:28.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserRegistrationMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserRegistrationMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:35:15.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "UserRegistrationMVC\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\AccountController.cs",
               "RelativeToolTip": "UserRegistrationMVC\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwFoAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T06:16:10.326Z"
+              "WhenOpened": "2024-09-25T09:48:27.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "UserRegistrationMVC\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "UserRegistrationMVC\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T20:37:09.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Views\\Account\\GetUser.cshtml",
-              "RelativeDocumentMoniker": "UserRegistrationMVC\\Views\\Account\\GetUser.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Views\\Account\\GetUser.cshtml",
-              "RelativeToolTip": "UserRegistrationMVC\\Views\\Account\\GetUser.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T20:37:06.233Z"
+              "DocumentIndex": 3,
+              "Title": "ApiAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\ApiAccountController.cs",
+              "RelativeDocumentMoniker": "UserRegistrationMVC\\Controllers\\ApiAccountController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\BioLabTask\\BioLabTask\\UserRegistrationMVC\\UserRegistrationMVC\\Controllers\\ApiAccountController.cs",
+              "RelativeToolTip": "UserRegistrationMVC\\Controllers\\ApiAccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:41:20.192Z"
             }
           ]
         }

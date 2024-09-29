@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UserRegistrationMVC",
+    "\\UserRegistrationMVC\\Controllers",
+    "\\UserRegistrationMVC\\Filters",
+    "\\UserRegistrationMVC\\Models",
+    "\\UserRegistrationMVC\\Views",
+    "\\UserRegistrationMVC\\Views\\Account"
+  ],
+  "SelectedNode": "\\UserRegistrationMVC\\Models\\webapi_security.cs",
+  "PreviewInSolutionExplorer": false
+}

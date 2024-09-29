@@ -1,31 +1,30 @@
-﻿using System.Configuration;
-using System.Data;
+﻿using System.Data;
 using System.Data.SqlClient;
+using System.Configuration;
+using System;
 
 namespace UserRegistrationMVC.Models
 {
-
     public class webapi_security
     {
-
         private static readonly string connection = ConfigurationManager.ConnectionStrings["UserDBConnection"].ConnectionString;
-        public static bool ValidateUsers(string username, string password)
+
+        public static bool ValidateUser(string username, string password)
         {
             using (SqlConnection con = new SqlConnection(connection))
             {
-                string query = "SELECT COUNT(*) FROM users WHERE username = @Username AND password = @Password";
-
-                using (SqlCommand cmd = new SqlCommand(query, con))
+                using (SqlCommand cmd = new SqlCommand("ValidateUser", con))
                 {
-                    cmd.CommandType = CommandType.Text;
+                    cmd.CommandType = CommandType.StoredProcedure;
 
                     cmd.Parameters.Add(new SqlParameter("@Username", username));
-                    cmd.Parameters.Add(new SqlParameter("@Password", password)); 
+                    cmd.Parameters.Add(new SqlParameter("@Password", password));
+
                     con.Open();
 
-                    int result = (int)cmd.ExecuteScalar(); 
+                    int result = (int)cmd.ExecuteScalar();
 
-                    return result > 0; 
+                    return result > 0;
                 }
             }
         }

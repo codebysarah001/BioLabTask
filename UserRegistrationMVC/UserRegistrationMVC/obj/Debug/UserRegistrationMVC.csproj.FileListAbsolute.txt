@@ -286,3 +286,5 @@ C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrati
 C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrationMVC\obj\Debug\UserRegi.B6493235.Up2Date
 C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrationMVC\obj\Debug\UserRegistrationMVC.dll
 C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrationMVC\obj\Debug\UserRegistrationMVC.pdb
+C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrationMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Orange\Desktop\BioLabTask\BioLabTask\UserRegistrationMVC\UserRegistrationMVC\bin\System.Web.Http.WebHost.xml
